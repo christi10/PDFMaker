@@ -1,0 +1,6 @@
+build-device/
+build/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+.DS_Store
